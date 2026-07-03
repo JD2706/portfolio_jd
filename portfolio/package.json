@@ -1,0 +1,9 @@
+{
+  "name": "david-jason-portfolio",
+  "version": "1.0.0",
+  "description": "David Jason J - Personal Portfolio Website",
+  "main": "index.html",
+  "dependencies": {
+    "nodemailer": "^6.9.9"
+  }
+}
